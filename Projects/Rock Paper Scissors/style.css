@@ -1,0 +1,18 @@
+.button {
+  width: 100px;
+  height: 100px;
+  font-family: "Bodoni", serif;
+  font-size: 24px;
+}
+
+#p4 {
+  font-style: italic;
+}
+
+body {
+  font-family: "Bodoni", serif;
+}
+
+#gameInfo {
+  height: 200px;
+}

@@ -2,11 +2,25 @@
 <html>
 <head>
 	<title>Test</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
-	<p id = "l1"></p>
-	<p id = "l2"></p>
-	<p id = "l3"></p>
+	<table>
+		<tr>
+			<td><button class="button" id="rock" onclick="runGame(this.id)">Rock</button></td>
+			<td><button class="button" id="paper" onclick="runGame(this.id)">Paper</button></td>
+			<td><button class="button" id="scissors" onclick="runGame(this.id)">Scissors</button></td>
+		</tr>
+	</table>
+	<div id="gameInfo">
+		<p id="p1"> </p>
+		<p id="p2"> </p>
+		<p id="p3"> </p>
+		<p id="p4"> </p>
+	</div>
+	<div>
+		<a href="../../index.html">Home</a>
+	</div>
 	<script type="text/javascript" src = "script.js"></script>
 </body>
 </html>
