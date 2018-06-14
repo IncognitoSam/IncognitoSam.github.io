@@ -1,0 +1,39 @@
+body {
+  background-color: #a9b7ce;
+}
+
+#container {
+  background-color: white;
+  width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#header {
+  text-align: center;
+  background-color: #10937b;
+  color: white;
+}
+
+#main {
+  padding: 10px;
+}
+
+#nav {
+  width: 180px;
+  float: left;
+  background-color: #c5d6d3;
+}
+
+#animation {
+  width: 800px;
+  float: right;
+}
+
+#text {
+  clear: both;
+}
+
+a {
+  text-decoration: none;
+}
