@@ -1,0 +1,1 @@
+This is a repository to host a github site. It contains some of my JavaScript programming projects, as well as experiments with web design.
